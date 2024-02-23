@@ -1,0 +1,44 @@
+[
+    {
+        "taskId": 1,
+        "title": "Complete Project Proposal",
+        "description": "Prepare and submit the project proposal by end of the week",
+        "status": "Incomplete",
+        "assignedTo": "John Doe"
+    },
+    {
+        "taskId": 2,
+        "title": "Review Code Changes",
+        "description": "Review the recent code changes and provide feedback",
+        "status": "Pending Review",
+        "assignedTo": "Jane Smith"
+    },
+    {
+        "taskId": 3,
+        "title": "Testing software",
+        "description": "test software application",
+        "status": "To do",
+        "assignedTo": "Ram"
+    },
+    {
+        "taskId": 4,
+        "title": "Fix kafka related issues",
+        "description": "Fix issues in kafka implementation",
+        "status": "Incomplete",
+        "assignedTo": "Jane Smith"
+    },
+    {
+        "taskId": 5,
+        "title": "Fix user auth bug",
+        "description": "Review the recent code changes and provide feedback",
+        "status": "Pending Review",
+        "assignedTo": "Hari"
+    },
+    {
+        "taskId": 6,
+        "title": "Implement UI for User dashboard",
+        "description": "Implement UI for dashboard",
+        "status": "Incomplete",
+        "assignedTo": "Ram"
+    }
+]
