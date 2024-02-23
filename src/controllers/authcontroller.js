@@ -1,4 +1,11 @@
-// authController.js
+/*
+  Filename: authcontoller.js
+  Student’s Name: Ramkumar
+  StudentID: 200574709
+  Date: 23-02-2024
+
+  This file contains controller functions for handling auth-related operations.
+*/
 const mongoose = require('mongoose');
 const passport = require('passport');
 const User = require('../model/user');
